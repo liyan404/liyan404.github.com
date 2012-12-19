@@ -1,4 +1,4 @@
-# This is the default format. 
+﻿# This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 你的博客名称
+title : liliYan
 tagline: Site Tagline
-author :
-  name : 你的姓名
-  email : 你的邮箱
-  github : https://github.com/$username$/
+author :liyan
+  name : liyan
+  email : liyanly404@gmail.com
+  github : https://github.com/liyan404/
   twitter : 
   feedburner : 
 
